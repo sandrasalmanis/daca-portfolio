@@ -1,4 +1,4 @@
-# DACA Portfoolio
+# DACA Portfolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
 **Osaleja:** [Sandra Salmanis]
