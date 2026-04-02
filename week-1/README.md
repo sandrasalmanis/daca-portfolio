@@ -10,7 +10,7 @@
 - Päringud kirjutades olenevalt programmist/süsteemist mis sa kasutad on erinevad niuantsid
 
 ## Failid
-- `week1_[tabel]_exploration.sql` -- minu SQL päringud
+- `week1_products_exploration.sql` -- minu SQL päringud
 - `week1_results_screenshot.png` -- tulemuste pilt
 
 ## Meeskonna töö
