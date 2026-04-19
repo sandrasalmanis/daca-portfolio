@@ -4,10 +4,10 @@ Uurisin, kes on TOP kliendid ja kuidas müük jaguneb linnade ja loyalty tasemet
 ## Tulemused
 
 ### TOP kliendid
-![TOP kliendid](./TOP 10.png)
+![TOP kliendid](./top10.png)
 
 ### Müük linnade kaupa
-![Müük linnade kaupa](./Müük linnade kaupa.png)
+![Müük linnade kaupa](./city_sales.png)
 
 ### Müük loyalty järgi
-![Müük loyalty](./Müük lojaalsusandmete kaupa.png)
+![Müük loyalty](./loyalty.png)
