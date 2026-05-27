@@ -1,7 +1,7 @@
 # DACA Portfoolio -- Sandra
 
 ## Minust
-Soovisin alustada uut eriala. Andmeanalüüs on asi mis pakub huvi. Programm tundus olevat põhjalik ja sisukas.
+Alustasin andmeanalüüsi õppimist, et arendada uusi tehnilisi oskusi ja ehitada professionaalne portfoolio.
 
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
