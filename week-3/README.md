@@ -26,6 +26,20 @@ Uurisin, kes on TOP kliendid ja kuidas müük jaguneb linnade ja loyalty tasemet
 4. Silver ja gold taseme kliendid toovad samuti suure osa müügist, kuid nende kogumüük jääb alla NULL grupile.
 5. Pärnu paistab silma tugeva müügiga võrreldes klientide arvuga.
 
+
+## Technologies Used
+
+- SQL
+- JOIN (INNER JOIN, LEFT JOIN)
+- Aggregation (COUNT, SUM)
+- GROUP BY
+- ORDER BY
+- Git & GitHub
+
+## Conclusion
+
+See projekt näitab SQL JOIN päringute praktilist kasutamist äriandmete analüüsimisel. Analüüsi abil oli võimalik tuvastada kõige väärtuslikumad kliendid, võrrelda linnade müügitulemusi ning hinnata lojaalsusprogrammi mõju müügile.
+
 ## How to Run
 
 1. Laadi repo alla:
