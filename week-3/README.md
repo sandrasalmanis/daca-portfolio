@@ -40,9 +40,9 @@ Uurisin, kes on TOP kliendid ja kuidas müük jaguneb linnade ja loyalty tasemet
 
 See projekt näitab SQL JOIN päringute praktilist kasutamist äriandmete analüüsimisel. Analüüsi abil oli võimalik tuvastada kõige väärtuslikumad kliendid, võrrelda linnade müügitulemusi ning hinnata lojaalsusprogrammi mõju müügile.
 
+
 ## How to Run
 
-1. Laadi repo alla:
-
-```bash
-git clone https://github.com/sandrasalmanis/daca-portfolio.git
+1. Ava fail `week3_joins.sql`.
+2. Käivita päringud SQL keskkonnas (näiteks DBeaver, SQLite või PostgreSQL).
+3. Vaata tulemusi ja võrdle neid README-s toodud analüüsiga.
